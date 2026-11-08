@@ -12,6 +12,11 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
 I'm a student of **Information Systems Engineering at Universidad Peruana de Ciencias Aplicadas (UPC)** in Peru.
 
 I'm currently developing my programming and software development skills through university projects and personal projects.
@@ -23,6 +28,17 @@ I'm currently developing my programming and software development skills through 
 - 🔧 Working with **Git and GitHub**
 - 🚀 Exploring different areas of technology to discover my future specialization
 - 📚 Always learning something new
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/about-me.png" width="250">
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -56,6 +72,7 @@ Here are some of the projects I'm currently developing and improving.
 C++ project developed as part of my university studies.
 
 **Technologies:**
+
 - C++
 - Git
 - GitHub
@@ -69,6 +86,7 @@ C++ project developed as part of my university studies.
 I'm also exploring **2D game development with Godot** as a way to improve my programming, logic and software development skills.
 
 **Technologies:**
+
 - Godot
 - GDScript
 - 2D Game Development
@@ -81,9 +99,9 @@ I'm also exploring **2D game development with Godot** as a way to improve my pro
 
 <a href="https://github.com/">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=SosaLJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosaLJ&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </a>
 
