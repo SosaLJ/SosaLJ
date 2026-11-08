@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=650&lines=Information+Systems+Engineering+Student;UPC+Student;C%2B%2B+%7C+Python;Learning+Software+Development;Building+Projects+and+Learning+Every+Day">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7A7ADB&center=true&vCenter=true&width=650&lines=Information+Systems+Engineering+Student;UPC+Student;C%2B%2B+%7C+Python;Learning+Software+Development;Building+Projects+and+Learning+Every+Day">
 </p>
 
 ---
@@ -33,7 +31,7 @@ I'm currently developing my programming and software development skills through 
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/about-me.png" width="250">
+<img src="./about-me.png" width="250">
 
 </td>
 
@@ -77,7 +75,7 @@ C++ project developed as part of my university studies.
 - Git
 - GitHub
 
-🔗 [View repository](https://github.com/)
+🔗 [View repository](https://github.com/SosaLJ/Sistema-de-delivery-1-ciclo)
 
 ---
 
@@ -97,13 +95,9 @@ I'm also exploring **2D game development with Godot** as a way to improve my pro
 
 <div align="center">
 
-<a href="https://github.com/">
-
 <img src="https://github-readme-stats.vercel.app/api?username=SosaLJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SosaLJ&layout=compact&theme=tokyonight&hide_border=true" height="170">
-
-</a>
 
 </div>
 
@@ -131,11 +125,7 @@ My goal is to explore different areas before choosing the specialization that be
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/">
+<a href="https://github.com/SosaLJ">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
