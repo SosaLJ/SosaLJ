@@ -79,15 +79,18 @@ C++ project developed as part of my university studies.
 
 ---
 
-### 🎮 Game Development
+### 🎮 2H1S
 
-I'm also exploring **2D game development with Godot** as a way to improve my programming, logic and software development skills.
+**2D Narrative RPG** developed with **Godot and GDScript**.
 
 **Technologies:**
 
 - Godot
 - GDScript
 - 2D Game Development
+- Pixel Art
+
+🎮 [Play 2H1S on itch.io](https://sosssa.itch.io/2heart1stone)
 
 ---
 
