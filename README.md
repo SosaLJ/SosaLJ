@@ -94,6 +94,21 @@ C++ project developed as part of my university studies.
 
 ---
 
+### 🥬 For Soup
+
+**Visual novel** developed with **Godot and GDScript**.
+
+**Technologies:**
+
+- Godot
+- GDScript
+- Visual Novel
+- 2D Game Development
+
+🎮 [Play For Soup on itch.io](https://sosssa.itch.io/forsoup)
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
